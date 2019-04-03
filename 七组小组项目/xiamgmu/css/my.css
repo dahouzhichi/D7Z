@@ -1,0 +1,95 @@
+	   *{
+	   	padding:0;
+	   	margin:0;
+	   }
+	   #top{
+	   	  z-index: 999;
+	   }
+	    .content{
+	        position: relative;	
+	        top:72px;
+
+	    }
+
+	  .content .map{
+           width:100%;
+           height:395px;
+           background: url(../../images/map.jpg) no-repeat;
+           background-position: center;
+           background-size: auto 100%;
+  
+
+	   }
+	   .contactus{
+	   	      width:1200px;
+	   	      height:410px;
+	   	      margin:0 auto;
+	   	      padding:2em 0;
+	   }
+	   .address{
+	   	     float:left;
+	   }
+	   .address h5{
+	   	      font-size: 30px;
+	   	      font-weight: 400;
+	   	      color:black;
+	   	      padding-bottom: 1em;
+	   }
+	   .address p{
+          font-size: 17px;
+          line-height: 45px;
+          color:#23232b;
+	   }
+	   .cooperation{
+	   	    float: right;
+	   	    padding-left:5em;
+	   	    border-left:1px solid  #ccc;
+	   }
+	    .cooperation .per{
+               padding-bottom:25px;
+	    }
+	    .cooperation h5{
+	    	    font-size: 25px;
+	    	    font-weight: 400;
+	    	    color:#14a9e6;
+	    	    padding-bottom: 5px;
+	    }
+	    .cooperation p{
+	    	  font-size: 17px;
+	    	  line-height: 25px;
+	    	  color:black;
+	    }
+	   .cooperation .per.last{
+	   	       padding-bottom: 0;
+	   }
+	   .footer{
+	   	   background-color:#f9f9f9;
+	   	   padding:100px 0 100px;
+	   }
+	   .normal_footer{
+	   	    padding:31px 0;
+
+	   }
+	   .footer_wrapper {
+			    width: 1000px;
+			    height:40px;
+			    margin: 0 auto;
+	  }
+	   .normal_footer .endright{
+	   	   padding-top:0;
+	   }
+	   .endright{
+	   	    display: block;
+	   	    clear:both;
+	   	    font-size: 12px;
+	   	    color:#666;
+	   	    padding-top:32px;
+	   }
+	   .endright p{
+	   	     padding-left:12px;
+	   	     line-height: 20px;
+	   	     font-size:15px;
+	   }
+	   .colors{
+	   	     color:#14a9e6;
+	   }
