@@ -1,0 +1,165 @@
+.w{
+	margin:0 auto;
+	width: 975px;
+}
+*{
+	margin:0;
+	padding: 0;
+}
+/*头部*/
+#top{
+	width: 100%;
+	height: 70px;
+	border-bottom: 1px solid #0c9bfa;
+	position: fixed;
+	background: white;
+	z-index: 999;
+}
+#top #top-inner{
+	height: 70px;
+}
+#top #top-inner img{
+	height: 50px;
+	float: left;
+	margin-top: 10px;
+}
+#top #top-inner ul{
+	float: right;
+}
+#top #top-inner ul li{
+	float: left;
+	list-style: none;
+	width: 100px;
+	height:50px;
+	text-align: center;
+	line-height: 70px;
+}
+.color{
+	color:#00aeea;
+}
+/*内容*/
+.content{
+	width: 1000px;
+    box-sizing: border-box;
+    margin: 0 auto;
+    padding: 0 20px;
+    padding-top:70px;
+}
+.content h2{
+	padding: 65px 0;
+    font-size: 24px;
+    font-weight:400;
+    color: #000;
+}
+.content p{
+	line-height: 33px;
+    font-size: 15px;
+    color: #000;
+    padding-bottom: 30px;
+}
+.line{
+	width: 100%;
+    height: 70px;
+    background: #f8f8f8;
+}
+/*时间*/
+.time{
+	padding-bottom: 57px;
+}
+.module{
+	width: 1000px;
+    margin: 0 auto;
+}
+.time .module h3{
+    width: 100%;
+    margin: 0 auto;
+    padding: 47px 0 40px 0;
+    font-size: 40px;
+    color: #4a4a4a;
+    font-weight: 700;
+}
+.time .module .time-1{
+	width: 100%;
+    margin: 0 auto;
+}
+.time .module .time-1 .time_evt{
+	width: 850px;
+    margin-left: 100px;
+    position: relative;
+    border-left: 1px solid #bdbdbd;
+}
+.clearfix:before, .clearfix:after {
+	content: "";
+	display: table;/*等价于display:block;*/
+}
+
+.clearfix:after {
+	clear: both;
+}
+.time .module .time-1 .time_evt .month{
+	position: absolute;
+    color: #444;
+    left: -74px;
+    top: -12px;
+}
+.time .module .time-1 .time_evt .month b{
+	font-size: 32px;
+    font-family: -webkit-body;
+}
+.time .module .time-1 .time_evt .point{
+	width: 14px;
+    height: 14px;
+    display: block;
+    position: absolute;
+    background: #51b6f9;
+    border-radius: 100px;
+    left: -7px;
+    top: 0;
+}
+.time .module .time-1 .time_evt .yellow {
+    background: #ffd600;
+}
+.time .module .time-1 .time_evt .txt{
+	width: 80%;
+    float: right;
+    font-size: 20px;
+    line-height: 33px;
+    color: #444;
+    padding-bottom: 40px;
+    margin-top: -10px;
+}
+.time .module .time-1 .time_evt .orange{
+	background-color: #ffad00;
+}
+.time .module .time-1 .time_evt .pink{
+	background-color: #ff6464;
+}
+.time .module .time-1 .time_evt .green{
+	background-color: #80c645;
+}
+/*尾部*/
+.footer {
+    background: #f9f9f9;
+    padding: 49px 0 32px;
+}
+.normal_footer {
+	position: relative; 
+	bottom: 0px;
+    padding: 31px 0;
+}
+.footer .footer_wrapper {
+    width: 1000px;
+    margin: 0 auto;
+}
+.footer .footer_wrapper .copyright {
+	padding-top: 0;
+    display: block;
+    clear: both;
+    font-size: 12px;
+    color: #666;
+    padding-top: 35px;
+}
+.footer .footer_wrapper .copyright p {
+    padding-left: 12px;
+    line-height: 20px;
+}
