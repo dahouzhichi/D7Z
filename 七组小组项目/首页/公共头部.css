@@ -1,0 +1,223 @@
+*{
+	margin:0;
+	padding: 0;
+	list-style: none;
+	text-decoration: none;
+}
+/*头部*/
+
+.w{
+	margin:0 auto;
+	width: 1200px;
+}
+#top{
+	width: 100%;
+	height: 70px;
+	border-bottom: 1px solid #0c9bfa;
+	position: fixed;
+	background: white;
+	z-index: 2;
+}
+#top #top-inner{
+	height: 70px;
+}
+#top #top-inner img{
+	height: 50px;
+	float: left;
+	margin-top: 10px;
+}
+#top #top-inner ul{
+	float: right;
+}
+#top #top-inner ul li{
+	float: left;
+	width: 100px;
+	height:50px;
+	text-align: center;
+	line-height: 70px;
+	cursor: pointer;
+}
+#top #top-inner ul li.first{
+	color: skyblue;
+}
+/*产品服务*/
+#fuwu{
+	position: relative;
+	top: 70px;
+}
+#fuwu #fuwu-inner{
+	position: relative;
+	height: 300px;
+}
+#fuwu #fuwu-inner #title{
+	width: 100%;
+	height: 30px;
+	position: absolute;
+	top: 10px;
+	text-align: center;
+}
+#fuwu #fuwu-inner #title p{
+	color: gray;
+}
+#fuwu #fuwu-inner #show{
+	position: absolute;
+	top: 90px;
+}
+#fuwu #fuwu-inner #show ul li{
+	width: 200px;
+	height: 200px;
+	float: left;
+	text-align: center;
+	position: relative;
+}
+#fuwu #fuwu-inner #show ul li img{
+	width: 90px;
+	height: 90px;
+	margin-left: 8px;
+}
+#fuwu #fuwu-inner #show ul li p{
+	color: gray;
+}
+#fuwu #fuwu-inner #show ul li div{
+	width: 90px;
+	height: 30px;
+	border-radius: 16px;
+	border:1px solid gray;
+	position: absolute;
+	left:55px;
+	top:160px;
+}
+#fuwu #fuwu-inner #show ul li div a{
+	color: gray;
+	text-align: center;
+	line-height: 30px;
+}
+#fuwu #fuwu-inner #show ul li div:hover{
+	background: skyblue;
+	border:1px solid skyblue;
+}
+#fuwu #fuwu-inner #show ul li div:hover a{
+	color: white;
+}
+/*新闻*/
+#news{
+	width: 100%;
+	height: 500px;
+	background: #f8f8f8;
+	position: relative;
+	top: 80px;
+}
+#news #news-inner .back{
+	width: 300px;
+	height: 400px;
+	background: white;
+	border-radius: 20px;
+	float: left;
+	position: relative;
+	top: 50px;
+	margin-left: 80px;
+	text-align: center;
+	transition: all .1s ease-in-out;
+	margin-top: 10px;
+}
+#news #news-inner .back:hover{
+	margin-top: 5px;
+	box-shadow: 0 6px 15px rgba(0,0,0,.02);
+
+}
+#news #news-inner .back img{
+	width: 53px;
+	margin-top: 10px;
+}
+#news #news-inner .back div{
+	width: 80%;
+	height: 15px;
+	color: #666;
+	font-size: 12px;
+	margin:10px auto;
+	overflow: hidden;
+}
+#news #news-inner .back .date{
+	text-align: left;
+	margin-left: 40px;
+}
+#news #news-inner .back a{
+	color: skyblue;
+}
+/*合作伙伴*/
+#firend{
+	width: 100%;
+	height: 300px;
+	position: relative;
+	top: 70px;
+}
+#firend #firend-inner #title1{
+	width: 1260px;
+	height: 30px;
+	position: absolute;
+	top: 20px;
+	text-align: center;
+}
+#firend #firend-inner #title1 p{
+	color: gray;
+}
+#firend #firend-inner ul{
+	width: 1200px;
+	height: 150px;
+	position: absolute;
+	top: 160px;
+}
+#firend #firend-inner ul li{
+	float: left;
+	width: 299px;
+	height: 80px;
+	text-align: center;
+}
+#firend #firend-inner ul .br{
+	border-right: 1px solid gray;
+}
+#firend #firend-inner ul .bb{
+	border-bottom: 1px solid gray;
+}
+/*底部*/
+#bottom{
+	width: 100%;
+	height: 100px;
+	position: relative;
+	top: 200px;
+	background: #f8f8f8;
+}
+#bottom #bottom-inner{
+	position: relative;
+	height: 100px;
+}
+#bottom #bottom-inner div{
+	width: 100%;
+	height: 30px;
+	position: absolute;
+	top: 30px;
+}
+#bottom #bottom-inner #bottom-left{
+	float: left;
+}
+#bottom #bottom-inner #bottom-left li{
+	float: left;
+	margin-right: 10px;
+}
+#bottom #bottom-inner #bottom-right{
+	float: right;
+}
+#bottom #bottom-inner #bottom-right li{
+	float: left;
+	margin-left: 10px;
+}
+#bottom #bottom-inner #bottom-right li i img{
+	width: 20px;
+}
+#bottom #bottom-inner p{
+	position: relative;
+	top: 60px;
+	margin-top: 10px;
+	color: gray;
+	font-size: 9px;
+}

@@ -1,11 +1,16 @@
 .w{
 	margin:0 auto;
-	width: 975px;
+	width: 1200px;
 }
 *{
 	margin:0;
 	padding: 0;
 }
+ a{
+        list-style: none;
+        text-decoration: none;
+        color: black;
+       }
 /*头部*/
 #top{
 	width: 100%;
@@ -34,7 +39,7 @@
 	text-align: center;
 	line-height: 70px;
 }
-.color{
+.color a{
 	color:#00aeea;
 }
 /*内容*/
