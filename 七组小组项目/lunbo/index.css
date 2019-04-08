@@ -1,0 +1,497 @@
+.banner_breadCrumb {
+    width: 100%;
+    height: 530px;
+    background: #1c7cf8;
+    background: linear-gradient(to right,#00b1fc,#1c7cf8);
+    position: absolute;
+    overflow: hidden;
+}
+.breadCrumb_wrapper {
+    width: 975px;
+    height: 100%;
+    position: relative;
+    margin: 0 auto;
+}
+.banner_breadCrumb b {
+    position: absolute;
+    display: inline-block;
+    -webkit-transition: all .6s ease-in-out;
+    -moz-transition: all .6s ease-in-out;
+    -ms-transition: all .6s ease-in-out;
+    -o-transition: all .6s ease-in-out;
+    transition: all .6s ease-in-out;
+}
+.bobo .breadCrumb_001 {
+    left: -663px;
+    top: 80px;
+}
+.banner_breadCrumb .breadCrumb_001 {
+    width: 484px;
+    height: 374px;
+    background: 0 0 url(https://imgaliyuncdn.miaopai.com/static20131031/miaopai20140729/new_yixia/static/imgs/breadCrumb.png) no-repeat;
+    left: -580px;
+    top: 45px;
+}
+.bobo .breadCrumb_002 {
+    left: -708px;
+    top: 229px;
+}
+.banner_breadCrumb .breadCrumb_002 {
+    width: 479px;
+    height: 361px;
+    background: -484px 0 url(https://imgaliyuncdn.miaopai.com/static20131031/miaopai20140729/new_yixia/static/imgs/breadCrumb.png) no-repeat;
+    left: -661px;
+    top: 230px;
+}
+.bobo .breadCrumb_003 {
+    left: -408px;
+    top: 293px;
+}
+
+.banner_breadCrumb .breadCrumb_003 {
+    width: 320px;
+    height: 236px;
+    background: -963px 0 url(https://imgaliyuncdn.miaopai.com/static20131031/miaopai20140729/new_yixia/static/imgs/breadCrumb.png) no-repeat;
+    left: -415px;
+    top: 274px;
+}
+.bobo .breadCrumb_004 {
+    left: -267px;
+    top: 228px;
+}
+.banner_breadCrumb .breadCrumb_004 {
+    width: 123px;
+    height: 91px;
+    background: -307px -748px url(https://imgaliyuncdn.miaopai.com/static20131031/miaopai20140729/new_yixia/static/imgs/breadCrumb.png) no-repeat;
+    left: -295px;
+    top: 204px;
+}
+.bobo .breadCrumb_005 {
+    left: -169px;
+    top: 415px;
+}
+.banner_breadCrumb .breadCrumb_005 {
+    width: 70px;
+    height: 71px;
+    background: -557px -721px url(https://imgaliyuncdn.miaopai.com/static20131031/miaopai20140729/new_yixia/static/imgs/breadCrumb.png) no-repeat;
+    left: -236px;
+    top: 417px;
+}
+.bobo .breadCrumb_006 {
+    left: -212px;
+    top: 266px;
+}
+.banner_breadCrumb .breadCrumb_006 {
+    width: 264px;
+    height: 98px;
+    background: -738px -721px url(https://imgaliyuncdn.miaopai.com/static20131031/miaopai20140729/new_yixia/static/imgs/breadCrumb.png) no-repeat;
+    left: -212px;
+    top: 250px;
+}
+.bobo .breadCrumb_007 {
+    left: -106px;
+    top: 296px;
+}
+.banner_breadCrumb .breadCrumb_007 {
+    width: 105px;
+    height: 81px;
+    background: 0 -748px url(https://imgaliyuncdn.miaopai.com/static20131031/miaopai20140729/new_yixia/static/imgs/breadCrumb.png) no-repeat;
+    left: -105px;
+    top: 293px;
+}
+.bobo .breadCrumb_008 {
+    left: -64px;
+    top: 228px;
+}
+.banner_breadCrumb .breadCrumb_008, .banner_breadCrumb .breadCrumb_020 {
+    background-image: url(https://imgaliyuncdn.miaopai.com/static20131031/miaopai20140729/new_yixia/static/imgs/breadCrumb_1.png);
+}
+.banner_breadCrumb .breadCrumb_008 {
+    width: 13px;
+    height: 13px;
+    background: -615px -815px url(https://imgaliyuncdn.miaopai.com/static20131031/miaopai20140729/new_yixia/static/imgs/breadCrumb.png) no-repeat;
+    left: -73px;
+    top: 226px;
+}
+.bobo .breadCrumb_009 {
+    left: -52px;
+    top: 115px;
+}
+.banner_breadCrumb .breadCrumb_009 {
+    width: 21px;
+    height: 22px;
+    background: -607px -792px url(https://imgaliyuncdn.miaopai.com/static20131031/miaopai20140729/new_yixia/static/imgs/breadCrumb.png) no-repeat;
+    left: -61px;
+    top: 115px;
+}
+.bobo .breadCrumb_010 {
+    left: -43px;
+    top: 175px;
+}
+.banner_breadCrumb .breadCrumb_010 {
+    width: 51px;
+    height: 51px;
+    background: -430px -748px url(https://imgaliyuncdn.miaopai.com/static20131031/miaopai20140729/new_yixia/static/imgs/breadCrumb.png) no-repeat;
+    left: -51px;
+    top: 155px;
+}
+.banner_breadCrumb .breadCrumb_011 {
+    width: 12px;
+    height: 12px;
+    background: -616px -827px url(https://imgaliyuncdn.miaopai.com/static20131031/miaopai20140729/new_yixia/static/imgs/breadCrumb.png) no-repeat;
+    left: -7px;
+    top: 137px;
+}
+.banner_breadCrumb .breadCrumb_012 {
+    width: 16px;
+    height: 16px;
+    background: -591px -792px url(https://imgaliyuncdn.miaopai.com/static20131031/miaopai20140729/new_yixia/static/imgs/breadCrumb.png) no-repeat;
+    left: 0;
+    top: 61px;
+}
+.banner_breadCrumb .breadCrumb_013 {
+    width: 69px;
+    height: 69px;
+    background: -483px -793px url(https://imgaliyuncdn.miaopai.com/static20131031/miaopai20140729/new_yixia/static/imgs/breadCrumb.png) no-repeat;
+    left: -20px;
+    top: 441.65px;
+}
+.banner_breadCrumb .breadCrumb_014 {
+    width: 159px;
+    height: 159px;
+    background: -1123px -687px url(https://imgaliyuncdn.miaopai.com/static20131031/miaopai20140729/new_yixia/static/imgs/breadCrumb.png) no-repeat;
+    left: 290px;
+    top: 239px;
+}
+.banner_breadCrumb .breadCrumb_015 {
+    width: 81px;
+    height: 81px;
+    background: -1181px -556px url(https://imgaliyuncdn.miaopai.com/static20131031/miaopai20140729/new_yixia/static/imgs/breadCrumb.png) no-repeat;
+    left: 492px;
+    top: 420px;
+}
+.banner_breadCrumb .breadCrumb_016 {
+    width: 92px;
+    height: 92px;
+    background: -214px -749px url(https://imgaliyuncdn.miaopai.com/static20131031/miaopai20140729/new_yixia/static/imgs/breadCrumb.png) no-repeat;
+    left: 573px;
+    top: 49px;
+}
+.banner_breadCrumb .breadCrumb_017 {
+    width: 108px;
+    height: 117px;
+    background: -629px -723px url(https://imgaliyuncdn.miaopai.com/static20131031/miaopai20140729/new_yixia/static/imgs/breadCrumb.png) no-repeat;
+    right: -132px;
+    top: 140px;
+}
+.banner_breadCrumb .breadCrumb_018 {
+    width: 30px;
+    height: 30px;
+    background: -560px -792px url(https://imgaliyuncdn.miaopai.com/static20131031/miaopai20140729/new_yixia/static/imgs/breadCrumb.png) no-repeat;
+    right: -96px;
+    top: 66px;
+}
+.banner_breadCrumb .breadCrumb_019 {
+    width: 109px;
+    height: 76px;
+    background: -104px -749px url(https://imgaliyuncdn.miaopai.com/static20131031/miaopai20140729/new_yixia/static/imgs/breadCrumb.png) no-repeat;
+    right: -245px;
+    top: 40px;
+}
+.banner_breadCrumb .breadCrumb_020 {
+    background-image: url(https://imgaliyuncdn.miaopai.com/static20131031/miaopai20140729/new_yixia/static/imgs/breadCrumb_1.png);
+}
+.banner_breadCrumb .breadCrumb_020 {
+    width: 16px;
+    height: 16px;
+    background: -591px -809px url(https://imgaliyuncdn.miaopai.com/static20131031/miaopai20140729/new_yixia/static/imgs/breadCrumb.png) no-repeat;
+    right: -126px;
+    top: 201px;
+}
+.banner_breadCrumb .breadCrumb_021 {
+    width: 478px;
+    height: 361px;
+    background: -482px -361px url(https://imgaliyuncdn.miaopai.com/static20131031/miaopai20140729/new_yixia/static/imgs/breadCrumb.png) no-repeat;
+    right: -575px;
+    top: -115px;
+}
+.banner_breadCrumb .breadCrumb_022 {
+    width: 88px;
+    height: 88px;
+    background: -1181px -468px url(https://imgaliyuncdn.miaopai.com/static20131031/miaopai20140729/new_yixia/static/imgs/breadCrumb.png) no-repeat;
+    right: -213px;
+    top: 215px;
+}
+.banner_breadCrumb .breadCrumb_023 {
+    width: 483px;
+    height: 375px;
+    background: 0 -373px url(https://imgaliyuncdn.miaopai.com/static20131031/miaopai20140729/new_yixia/static/imgs/breadCrumb.png) no-repeat;
+    right: -546px;
+    top: 10px;
+}
+.banner_breadCrumb .breadCrumb_024 {
+    width: 48px;
+    height: 44px;
+    background: -431px -799px url(https://imgaliyuncdn.miaopai.com/static20131031/miaopai20140729/new_yixia/static/imgs/breadCrumb.png) no-repeat;
+    right: -86px;
+    top: 285px;
+}
+.banner_breadCrumb .breadCrumb_025 {
+    width: 219px;
+    height: 219px;
+    background: -961px -467px url(https://imgaliyuncdn.miaopai.com/static20131031/miaopai20140729/new_yixia/static/imgs/breadCrumb.png) no-repeat;
+    right: -86px;
+    top: 375px;
+}
+.banner_breadCrumb .breadCrumb_026 {
+    width: 315px;
+    height: 232px;
+    background: -963px -237px url(https://imgaliyuncdn.miaopai.com/static20131031/miaopai20140729/new_yixia/static/imgs/breadCrumb.png) no-repeat;
+    right: -360px;
+    top: 238px;
+}
+.banner_breadCrumb .breadCrumb_027 {
+    width: 121px;
+    height: 95px;
+    background: -1002px -687px url(https://imgaliyuncdn.miaopai.com/static20131031/miaopai20140729/new_yixia/static/imgs/breadCrumb.png) no-repeat;
+    right: -238px;
+    top: 372px;
+}
+.banner_breadCrumb .breadCrumb_028 {
+    width: 73px;
+    height: 70px;
+    background: -484px -722px url(https://imgaliyuncdn.miaopai.com/static20131031/miaopai20140729/new_yixia/static/imgs/breadCrumb.png) no-repeat;
+    right: -272px;
+    top: 434px;
+}
+.banner_breadCrumb .breadCrumb_029 {
+    width: 34px;
+    height: 31px;
+    background: url(https://imgaliyuncdn.miaopai.com/static20131031/miaopai20140729/new_yixia/static/imgs/mp_01.png) no-repeat;
+    left: -171px;
+    top: 210px;
+}
+.banner_breadCrumb .breadCrumb_030 {
+    width: 24px;
+    height: 325px;
+    background: url(https://imgaliyuncdn.miaopai.com/static20131031/miaopai20140729/new_yixia/static/imgs/mp_02.png) no-repeat;
+    right: -53px;
+    top: 170px;
+}
+
+.banner {
+    width: 100%;
+    height: 530px;
+    position: relative;
+    overflow: hidden;
+}
+.banner .con {
+    width: 975px;
+    height: 530px;
+    margin: 0 auto;
+    position: relative;
+}
+.sign {
+    position: absolute;
+    top: 140px;
+    left: 73px;
+}
+.bobo_logo {
+    width: 274px;
+    height: 67px;
+}
+.sign_slogan {
+    color: #fff;
+    white-space: nowrap;
+}
+.sign_slogan .sign_1 {
+    font-size: 28px;
+    padding: 20px 0 17px;
+}
+.sign_slogan .sign_2 {
+    font-size: 18px;
+}
+.banner_bobo .down {
+    background: #fff;
+}
+.banner_bobo .down a {
+    color: #fd415f;
+}
+.pic_show {
+    position: absolute;
+    bottom: 0;
+    left: 550px;
+}
+.banner_bobo .pic_show img {
+    height: 520px;
+}
+.banner .con {
+    width: 975px;
+    height: 530px;
+    margin: 0 auto;
+    position: relative;
+}
+.sign {
+    position: absolute;
+    top: 140px;
+    left: 73px;
+}
+.mp_logo {
+    width: 183px;
+    display: block;
+}
+.sign_slogan {
+    color: #fff;
+    white-space: nowrap;
+}
+.sign_slogan .sign_1 {
+    font-size: 28px;
+    padding: 20px 0 17px;
+}
+.sign_slogan .sign_2 {
+    font-size: 18px;
+}
+.down {
+    background: #ffea00;
+}
+.down {
+    width: 169px;
+    height: 54px;
+    border-radius: 100px;
+    background: #ffd600;
+    text-align: center;
+    line-height: 54px;
+    color: #24232b;
+    margin-top: 100px;
+}
+.down a {
+    display: block;
+    width: 100%;
+    height: 100%;
+    color: #24232b;
+    text-decoration: none;
+}
+.pic_show {
+    position: absolute;
+    bottom: 0;
+    left: 550px;
+}
+.pic_show img {
+    height: 476px;
+    display: block;
+}
+.banner_xiaokaxiu .pic_show {
+    width: 450px;
+    left: 30px;
+}
+.banner_xiaokaxiu .sign {
+    position: absolute;
+    left: 665px;
+    top: 140px;
+}
+.xkx_logo {
+    width: 225px;
+    display: block;
+}
+.banner_xiaokaxiu .down {
+    background: #1a1c23;
+}	
+.banner_xiaokaxiu .down a {
+    color: #fff;
+}
+.down a {
+    display: block;
+    width: 100%;
+    height: 100%;
+    color: #24232b;
+    text-decoration: none;
+}
+.yzb_logo {
+    width: 231px;
+    display: block;
+}
+
+.banner {
+    width: 100%;
+    height: 530px;
+    position: relative;
+    overflow: hidden;
+}
+element.style {
+    transform: translate3d(-4824px, 0px, 0px);
+    transition-duration: 0ms;
+}
+.swiper-slide {
+    width: 100%;
+    height: 100%;
+    position: relative;
+}
+  
+.banner .con {
+    width: 975px;
+    height: 530px;
+    margin: 0 auto;
+    position: relative;
+}
+.sign {
+    position: absolute;
+    top: 140px;
+    left: 73px;
+}
+.bobo_logo {
+    width: 274px;
+    height: 67px;
+}
+.sign_slogan {
+    color: #fff;
+    white-space: nowrap;
+}
+.sign_slogan .sign_1 {
+    font-size: 28px;
+    padding: 20px 0 17px;
+}
+.banner_bobo .down {
+    background: #fff;
+}
+.down {
+    background: #ffea00;
+}
+.down {
+    width: 169px;
+    height: 54px;
+    border-radius: 100px;
+    background: #ffd600;
+    text-align: center;
+    line-height: 54px;
+    color: #24232b;
+    margin-top: 100px;
+}
+.banner_bobo .down {
+    background: #fff;
+}
+.down {
+    background: #ffea00;
+}
+.down {
+    width: 169px;
+    height: 54px;
+    border-radius: 100px;
+    background: #ffd600;
+    text-align: center;
+    line-height: 54px;
+    color: #24232b;
+    margin-top: 100px;
+}
+.pic_show {
+    position: absolute;
+    bottom: 0;
+    left: 550px;
+}
+ 	
+.banner_bobo .pic_show img {
+    height: 520px;
+}
+.pic_show img {
+    height: 476px;
+    display: block;
+}

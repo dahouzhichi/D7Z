@@ -3,10 +3,12 @@
 	   	margin:0;
 	   }
 	   a{
-	   	list-style: none;
-	   	text-decoration: none;
-	   	color: black;
-	   }
+		text-decoration: none;
+		color: black;
+	}
+	.color{
+		color: skyblue;
+	}
 	   #top{
 	   	  z-index: 999;
 	   }
@@ -95,6 +97,6 @@
 	   	     line-height: 20px;
 	   	     font-size:15px;
 	   }
-	   .colors a{
+	   .colors{
 	   	     color:#14a9e6;
 	   }

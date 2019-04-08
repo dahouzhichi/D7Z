@@ -4,6 +4,9 @@
 	list-style: none;
 	text-decoration: none;
 }
+a{
+	color: black;
+}
 /*头部*/
 
 .w{
@@ -37,8 +40,18 @@
 	line-height: 70px;
 	cursor: pointer;
 }
-#top #top-inner ul li.first{
+#top #top-inner ul li.first a{
 	color: skyblue;
+}
+/*轮播*/
+#lunbo{
+	width: 100%;
+	height: 600px;
+	background: blue;
+}
+#lunbo iframe{
+	width: 100%;
+	height: 600px;
 }
 /*产品服务*/
 #fuwu{
